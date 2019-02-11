@@ -1,0 +1,7 @@
+id=callsmsmanager
+name=Root Call SMS Manager - mdn
+version=1.16.1
+versionCode=57
+author=mdn
+description=App to block undesirable incoming and outgoing calls and SMS
+minMagisk=17000
